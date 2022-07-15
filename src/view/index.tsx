@@ -1,4 +1,6 @@
+import { useEffect } from 'react'
 import EmbededView from '@sentre/embeded-view'
+import { useUI } from '@sentre/senhub'
 
 import configs from 'configs'
 
@@ -7,6 +9,12 @@ const {
 } = configs
 
 const View = () => {
+  const { setBackground } = useUI()
+
+  useEffect(() => {
+    setBackground({ dark: '#fff', light: '#fff' })
+  }, [setBackground])
+
   return (
     <EmbededView
       appId={appId}
