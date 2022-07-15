@@ -1,3 +1,3 @@
-# My App
+# Liquidity for staked assets
 
-A sample project for Sentre developers
+Simplified and secure staking for digital assets
