@@ -9,7 +9,7 @@ const MainnetOnly = () => {
             ⚠️ Only supported on Solana mainnet.
           </Typography.Title>
           <Typography.Text style={{ color: '#273852' }}>
-            You can open the Control Center, switch to mainnet, and experience
+            You can open the Control Center, switch to mainnet and experience
             the application.
           </Typography.Text>
         </Space>
