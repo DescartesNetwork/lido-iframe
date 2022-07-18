@@ -1,8 +1,9 @@
 import { useEffect } from 'react'
 import EmbededView from '@sentre/embeded-view'
-import { useUI } from '@sentre/senhub'
+import { useUI, net } from '@sentre/senhub'
 
 import configs from 'configs'
+import MainnetOnly from './mainnetOnly'
 
 const {
   manifest: { appId },
@@ -15,13 +16,15 @@ const View = () => {
     setBackground({ dark: '#fff', light: '#fff' })
   }, [setBackground])
 
-  return (
+  return net === 'mainnet' ? (
     <EmbededView
       appId={appId}
       src={'https://solana.lido.fi/'}
       title="Liquidity for staked assets."
       wallet={window.sentre.wallet}
     />
+  ) : (
+    <MainnetOnly />
   )
 }
 
