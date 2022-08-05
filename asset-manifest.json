@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.ee70e281.js",
+    "main.js": "/static/js/main.07f8fe0f.js",
     "lido.js": "/index.js",
     "static/js/src_bootstrap_tsx.5e1ae238.chunk.js": "/static/js/src_bootstrap_tsx.5e1ae238.chunk.js",
     "static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.cee8e845.chunk.js": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.cee8e845.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.5159b827.chunk.js": "/static/js/vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.5159b827.chunk.js",
     "static/js/vendors-node_modules_react-router_esm_react-router_js.75a5ac2e.chunk.js": "/static/js/vendors-node_modules_react-router_esm_react-router_js.75a5ac2e.chunk.js",
     "static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.32849e4b.chunk.css": "/static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.32849e4b.chunk.css",
-    "static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8b74c8e5.chunk.js": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8b74c8e5.chunk.js",
+    "static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8454354d.chunk.js": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8454354d.chunk.js",
     "static/js/vendors-node_modules_antd_es_index_js.280b7143.chunk.js": "/static/js/vendors-node_modules_antd_es_index_js.280b7143.chunk.js",
     "static/js/vendors-node_modules_react-redux_es_index_js.d37705a1.chunk.js": "/static/js/vendors-node_modules_react-redux_es_index_js.d37705a1.chunk.js",
     "static/js/vendors-node_modules_sentre_embeded-view_dist_index_js.5417465c.chunk.js": "/static/js/vendors-node_modules_sentre_embeded-view_dist_index_js.5417465c.chunk.js",
@@ -55,7 +55,7 @@
     "index.html": "/index.html",
     "static.app.tsx": "/lido-asset-senhub.json",
     "static/media/README.md": "/static/media/README.128ab442be652430fa0e.md",
-    "main.ee70e281.js.map": "/static/js/main.ee70e281.js.map",
+    "main.07f8fe0f.js.map": "/static/js/main.07f8fe0f.js.map",
     "index.js.map": "/index.js.map",
     "src_bootstrap_tsx.5e1ae238.chunk.js.map": "/static/js/src_bootstrap_tsx.5e1ae238.chunk.js.map",
     "vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.cee8e845.chunk.js.map": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.cee8e845.chunk.js.map",
@@ -69,12 +69,12 @@
     "vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.5159b827.chunk.js.map": "/static/js/vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.5159b827.chunk.js.map",
     "vendors-node_modules_react-router_esm_react-router_js.75a5ac2e.chunk.js.map": "/static/js/vendors-node_modules_react-router_esm_react-router_js.75a5ac2e.chunk.js.map",
     "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.32849e4b.chunk.css.map": "/static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.32849e4b.chunk.css.map",
-    "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8b74c8e5.chunk.js.map": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8b74c8e5.chunk.js.map",
+    "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8454354d.chunk.js.map": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8454354d.chunk.js.map",
     "vendors-node_modules_antd_es_index_js.280b7143.chunk.js.map": "/static/js/vendors-node_modules_antd_es_index_js.280b7143.chunk.js.map",
     "vendors-node_modules_react-redux_es_index_js.d37705a1.chunk.js.map": "/static/js/vendors-node_modules_react-redux_es_index_js.d37705a1.chunk.js.map",
     "vendors-node_modules_sentre_embeded-view_dist_index_js.5417465c.chunk.js.map": "/static/js/vendors-node_modules_sentre_embeded-view_dist_index_js.5417465c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ee70e281.js"
+    "static/js/main.07f8fe0f.js"
   ]
 }
