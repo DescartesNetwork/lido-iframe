@@ -14,18 +14,17 @@ const View = () => {
   const { setBackground } = useUI()
 
   useEffect(() => {
-    setBackground({ dark: '#fff', light: '#fff' })
+    setBackground({ dark: '#ffffff', light: '#ffffff' })
   }, [setBackground])
 
-  return net === 'mainnet' ? (
+  if (net !== 'mainnet') return <MainnetOnly />
+  return (
     <EmbededView
       appId={appId}
       src={'https://solana.lido.fi/'}
       title="Liquidity for staked assets."
       wallet={window.sentre.wallet}
     />
-  ) : (
-    <MainnetOnly />
   )
 }
 
